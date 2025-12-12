@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Detecting Machine-Generated Misinformation in Social Media"
+type: thesis
+thesis-type: "MSc Dissertation"
+year: 2025
+
+authors:
+  - family-names: Gharat
+    given-names: Manthan
+    affiliation: "University of Sheffield"
+
+supervisors:
+  - family-names: Scarton
+    given-names: Carolina
+    affiliation: "University of Sheffield"
+    role: supervisor
+  - family-names: Haouari
+    given-names: Fatima
+    affiliation: "University of Sheffield"
+    role: supervisor
+
+abstract: 
+  With the rise of accessible LLMs, the recent area of study has been 
+  machine-generated tweets and their influence on various aspects. 
+  This research aims to provide novel machine- generated misinformation 
+  datasets and evaluate detectors for classifying 
+  machine-generated misinformation tweets.
+
+keywords:
+  - machine-generated text
+  - misinformation
+  - social media
+  - large language models
+  - NLP
+  - text classification
+
+license: MIT
+
+repository-code: "https://github.com/Kuro-py/detecting-machine-generated-misinformation"
